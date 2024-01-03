@@ -1,0 +1,221 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16px;
+}
+
+/* body {
+  font-family: "Roboto", sans-serif;
+  width: 100vw;
+  height: 100vh;
+  background-color: black;
+  overflow-x: hidden;
+}
+
+img {
+  width: 100%;
+}
+ .leader {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: nowrap;
+}
+
+.new-logo {
+  width: 100%;
+  display: flex;
+  margin-left: 30px;
+}
+
+.x {
+  width: 30%;
+  cursor: pointer;
+}
+
+span {
+  gap: 0.5rem;
+}
+
+.last-pic {
+  display: flex;
+  gap: 0.2rem;
+  padding: 0.7rem 2rem;
+  border-radius: 30px;
+}
+
+.last-pic:hover {
+  background-color: rgb(44, 43, 43);
+}
+
+.user-img-g {
+  width: 30%;
+  border-radius: 50%;
+  margin-top: -2px;
+  border: 2px solid white;
+  margin-left: -12px;
+}
+
+.name {
+  color: #fff;
+  font-size: 1rem;
+  margin-top: 0.5rem;
+}
+
+.user-names {
+  color: gray;
+  font-size: 0.8rem;
+}
+
+.left-side {
+  width: 15rem;
+  height: 100vh;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  position: fixed;
+  position: sticky;
+  padding: 0 1rem 2rem 1rem;
+}
+
+.icon {
+  font-size: 20px;
+  color: #fff;
+  border-radius: 50%;
+}
+
+a {
+  text-decoration: none;
+  display: flex;
+  gap: 0.5rem;
+  padding: 1rem 2rem;
+}
+
+a:hover {
+  border-radius: 30px;
+  background-color: rgb(44, 43, 43);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+
+
+}
+
+.title {
+  text-align: center;
+  margin-top: 50px;
+  font-size: 30px;
+  color: rgb(221, 6, 6);
+  font-weight: 50px;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 100px;
+
+}
+
+.card {
+  display: flex;
+  position: relative;
+  width: 400px;
+  height: 250px;
+  /background-color: #ccc;/ border-radius: 20px;
+  align-items: center;
+  transition: 0.5s;
+
+
+}
+
+.cir {
+  margin-right: 15px;
+}
+
+.card .cir {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 20px;
+  overflow: hidden;
+
+}
+
+.card .cir::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgb(27, 175, 239);
+  clip-path: circle(100px at center);
+  transition: 0.5s;
+}
+
+
+
+.card .cir:hover:before {
+  background-color: rgb(241, 52, 74);
+  clip-path: circle(300px at center);
+}
+
+.card img {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 240px;
+  pointer-events: none;
+  transition: 0.5s;
+}
+
+.card:hover img {
+  left: 75%;
+  height: 300px;
+}
+
+.card .content {
+  position: relative;
+  width: 50%;
+  left: 20%;
+  padding: 10px 40px 10px 0;
+  top: 5px;
+  display: none;
+
+}
+
+.card:hover .content {
+  display: block;
+}
+
+
+h3 {
+  color: black;
+}
+
+h5 {
+  color: rgb(2, 2, 56);
+}
+
+.link {
+  position: absolute;
+  margin-top: 200px;
+  margin-left: 80px;
+  color: navy;
+  font-size: 20px;
+  font-weight: 100px;
+} */
